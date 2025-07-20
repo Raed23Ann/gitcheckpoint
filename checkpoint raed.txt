@@ -1,0 +1,30 @@
+What is web development, and why is it essential in the context of the internet ?
+-web development is creating website, web applications, and it is separated in two steps : 
+Front-End : the visible part and users-interactive part (HTML CSS JAVAscript)
+Back-End : the invisible part that only admins and developpers can see (PHP, python , node.js)
+-it's essential because today every person uses website : to make money like E-commerce,
+to study like Forums, Youtube, Wikipedia , to follow news,to get more credibility as a new organisation
+to communicate..etc in short web development is the foundation of internet, the futur of every projet
+and it is a big part of modern world
+
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+-Yes, HTML is used to structure and gives the website layout in another words we can say that web development
+is a body, and HTML is the bones and without him it won't work and website won't know how to display anything
+
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+-A little bit, CSS is used to design the website, give it a soul by decorating everything we can that
+CSS is the hair color, eyes color, skin, the beauty of the body
+
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+-A little bit, Java is crucial because he gives the interactivity he is the link between everything he makes it more dynamic by changing without refreshing etc..
+in a body he is the brain so it is very crucial
+
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development
+-For this one, No i don't have any idea about react, Node.js i only know that Node.js is used in back-End
+
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+-for true.. i want to be one the biggest web developpers in the earth.. i want to know everything about it 
+to make it a job and then be able to make money, make websites for fun, discover new things about making websites, upgrade some websites, make new projects
+and why not another day have a school where i can teach all what i know
+
+Thank you !
